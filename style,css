@@ -1,0 +1,14 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: arial, sans-serif;
+  margin: 2em;
+  font-size: 30px;
+  text-align: center
+}
+
+h1 {
+  font-style: italic;
+  font-color: blue;
+}
+
